@@ -1,0 +1,7 @@
+[package]
+name = "anagram_check"
+version = "0.1.0"
+std = 17
+
+[dependencies]
+util_core = {git = "https://github.com/Bjathneas/UtilCore", commit = "139e3e6"}
