@@ -1,0 +1,6 @@
+[package]
+name = "sum_of_even"
+version = "0.1.0"
+std = 17
+
+[dependencies]
